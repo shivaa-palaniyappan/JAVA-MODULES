@@ -27,8 +27,8 @@ To write a Java program that finds the square root of a given number using the D
  ```
 /*
 Program to implement a Wrapper Class using Java
-Developed by:PRASANNA I
-RegisterNumber: 212223220079
+Developed by:  SHIVAA PALANIYAPPAN V
+RegisterNumber:  212223110050
 */
 ```
 
