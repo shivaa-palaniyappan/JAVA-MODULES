@@ -40,8 +40,8 @@ To write a Java program to find the factorial of a given non-negative integer us
  ```
 /*
 Program to implement a Looping Statement using Java
-Developed by: PRASANNA I
-RegisterNumber:  212223220079
+Developed by: SHIVAA PALANIYAPPAN V
+RegisterNumber:  212223110050
 */
 ```
 
