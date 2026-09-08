@@ -22,8 +22,8 @@ To write a Java method isEven(int num) without using the % operator to check whe
  ```
 /*
 Program to implement a Methods using Java
-Developed by: PRASANNA I
-RegisterNumber:  212223220079
+Developed by:  SHIVAA PALANIYAPPAN V
+RegisterNumber:  212223110050
 */
 ```
 
