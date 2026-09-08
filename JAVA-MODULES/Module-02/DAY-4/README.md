@@ -28,8 +28,8 @@ To write a Java program to implement a class Employee with a parameterized const
  ```
 /*
 Program to implement a Variable scope and Constructor using Java
-Developed by: PRASANNA I
-RegisterNumber:  212223220079
+Developed by:  SHIVAA PALANIYAPPAN V
+RegisterNumber:  212223110050
 */
 ```
 
