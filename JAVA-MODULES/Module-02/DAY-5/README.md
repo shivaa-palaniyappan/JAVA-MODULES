@@ -27,8 +27,8 @@ To write a Java program to create a Calculator class with a non-static method fo
  ```
 /*
 Program to implement a Access Modifiers using Java
-Developed by: PRASANNA I
-RegisterNumber:  212223220079
+Developed by:  SHIVAA PALANIYAPPAN V
+RegisterNumber:  212223110050
 */
 ```
 
