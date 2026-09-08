@@ -23,8 +23,8 @@ To write a Java program demonstrating Composition and Abstract Factory Pattern b
  ```
 /*
 Program to implement a Composition Concepts in Java
-Developed by: PRASANNA I
-RegisterNumber: 212223220079
+Developed by:  SHIVAA PALANIYAPPAN V
+RegisterNumber:  212223110050
 */
 ```
 
