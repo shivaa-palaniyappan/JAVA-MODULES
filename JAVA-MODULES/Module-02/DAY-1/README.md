@@ -22,8 +22,8 @@ To create a Java class Course with attributes code, title, and credits, and disp
  ```
 /*
 Program to implement a Class and Objects using Java
-Developed by:PRASANNA I 
-RegisterNumber:  212223220079
+Developed by:  SHIVAA PALANIYAPPAN V
+RegisterNumber:  212223110050
 */
 ```
 
