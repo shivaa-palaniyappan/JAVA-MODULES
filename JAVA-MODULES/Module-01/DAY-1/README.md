@@ -31,8 +31,8 @@ To write a Java program to get the customer name as input and display a welcome 
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: PRASANNA I
-RegisterNumber: 212223220079
+Developed by: SHIVAA PALANIYAPPAN V
+RegisterNumber: 212223110050
 */
 ```
 
